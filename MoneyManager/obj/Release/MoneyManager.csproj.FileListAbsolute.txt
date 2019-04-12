@@ -1,0 +1,21 @@
+C:\Users\Harsh\source\repos\MoneyManager\MoneyManager\bin\Release\MoneyManager.exe.config
+C:\Users\Harsh\source\repos\MoneyManager\MoneyManager\bin\Release\MoneyManager.exe
+C:\Users\Harsh\source\repos\MoneyManager\MoneyManager\bin\Release\MoneyManager.pdb
+C:\Users\Harsh\source\repos\MoneyManager\MoneyManager\obj\Release\MoneyManager.Form1.resources
+C:\Users\Harsh\source\repos\MoneyManager\MoneyManager\obj\Release\MoneyManager.Properties.Resources.resources
+C:\Users\Harsh\source\repos\MoneyManager\MoneyManager\obj\Release\MoneyManager.csproj.GenerateResource.cache
+C:\Users\Harsh\source\repos\MoneyManager\MoneyManager\obj\Release\MoneyManager.csproj.CoreCompileInputs.cache
+C:\Users\Harsh\source\repos\MoneyManager\MoneyManager\obj\Release\MoneyManager.csproj.Fody.CopyLocal.cache
+C:\Users\Harsh\source\repos\MoneyManager\MoneyManager\obj\Release\MoneyManager.exe
+C:\Users\Harsh\source\repos\MoneyManager\MoneyManager\obj\Release\MoneyManager.pdb
+C:\Users\Harsh\source\repos\MoneyManager - Copy\MoneyManager\bin\Release\MoneyManager.exe.config
+C:\Users\Harsh\source\repos\MoneyManager - Copy\MoneyManager\bin\Release\MoneyManager.exe
+C:\Users\Harsh\source\repos\MoneyManager - Copy\MoneyManager\bin\Release\MoneyManager.pdb
+C:\Users\Harsh\source\repos\MoneyManager - Copy\MoneyManager\obj\Release\MoneyManager.Form1.resources
+C:\Users\Harsh\source\repos\MoneyManager - Copy\MoneyManager\obj\Release\MoneyManager.Properties.Resources.resources
+C:\Users\Harsh\source\repos\MoneyManager - Copy\MoneyManager\obj\Release\MoneyManager.csproj.GenerateResource.cache
+C:\Users\Harsh\source\repos\MoneyManager - Copy\MoneyManager\obj\Release\MoneyManager.csproj.CoreCompileInputs.cache
+C:\Users\Harsh\source\repos\MoneyManager - Copy\MoneyManager\obj\Release\MoneyManager.csproj.Fody.CopyLocal.cache
+C:\Users\Harsh\source\repos\MoneyManager - Copy\MoneyManager\obj\Release\MoneyManager.exe
+C:\Users\Harsh\source\repos\MoneyManager - Copy\MoneyManager\obj\Release\MoneyManager.pdb
+C:\Users\Harsh\source\repos\MoneyManager - Copy\MoneyManager\obj\Release\MoneyManager.csprojAssemblyReference.cache
