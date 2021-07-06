@@ -2,7 +2,8 @@
 
 ## passwords are hectic for users to remmember
 ###### Thus to simplify life from remembering password here is an implementation of passwordless authentication
-**Here is an implementation of the above mentioned in a Money manager desktop application  **
+**Here is an implementation of the above mentioned in a Money manager desktop application**
+<br />
 ***Features-***
 - Reads the hardware id of the system on 1st login attempt there after no password is required
 - Helps In Keeping a record of earning and expenses.
