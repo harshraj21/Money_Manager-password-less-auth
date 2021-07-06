@@ -12,7 +12,7 @@
 - PHP
 - C#
 
-##Designed in visual studio IDE
+## Designed in visual studio IDE
 
 *You are free to modify the project*
 *You will need a server with database integration to be able to store the store data*
