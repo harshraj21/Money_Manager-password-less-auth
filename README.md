@@ -1,11 +1,20 @@
-# Money_Manager
-Helps In Keeping a record of earning and expenses.
-Also features SQL implementation to keep the record Safe on server
-Using php for querry to the sql
+# Money Manager with passwordless authentication
 
-Developed on C#.
-Designed in visual studio IDE
+##passwords are hectic for users to remmember
 
-You are free to modify the project with proper credits;
-You will need a server with database integration to be able to store the store data,
-or you can store it locally;
+######Thus to simplify life from remembering password here is an implementation of passwordless authentication
+**Here is an implementation of the above mentioned in a Money manager desktop application**
+***Features-***
+- Reads the hardware id of the system on 1st login attempt there after no password is required
+- Helps In Keeping a record of earning and expenses.
+
+***Tech Stack***
+- My SQL
+- PHP
+- C#
+
+##Designed in visual studio IDE
+
+*You are free to modify the project*
+*You will need a server with database integration to be able to store the store data*
+*else can store it locally*
