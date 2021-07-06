@@ -8,8 +8,8 @@
 ***Features-***
 - Reads the hardware id of the system on 1st login attempt there after no password is required
 - Helps In Keeping a record of earning and expenses.
-<br />
-***Tech stack used***
+
+***Tech stack used-***
 - My SQL
 - PHP
 - C#
@@ -20,4 +20,4 @@
 <br />
 *You will need a server with database integration to be able to store the store data*
 <br />
-*else can store it locally*
+*Or can store it locally*
