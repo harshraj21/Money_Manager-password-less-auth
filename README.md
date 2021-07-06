@@ -2,6 +2,8 @@
 
 ## passwords are hectic for users to remmember
 ###### Thus to simplify life from remembering password here is an implementation of passwordless authentication
+**Can be implemented in any application with slight modification of code**
+<br />
 **Here is an implementation of the above mentioned in a Money manager desktop application**
 <br />
 
