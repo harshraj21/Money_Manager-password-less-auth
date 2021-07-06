@@ -7,7 +7,7 @@
 - Reads the hardware id of the system on 1st login attempt there after no password is required
 - Helps In Keeping a record of earning and expenses.
 
-***Tech Stack***
+***Tech stack used***
 - My SQL
 - PHP
 - C#
