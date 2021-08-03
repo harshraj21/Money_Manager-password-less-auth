@@ -1,4 +1,4 @@
-# Money Manager with passwordless authentication
+# Passwordless authentication (Money Manager)
 
 ## passwords are hectic for users to remmember
 ###### Thus to simplify life from remembering password here is an implementation of passwordless authentication
